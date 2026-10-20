@@ -3,9 +3,11 @@
 ### Pharmacist & Economist | Data Mining Master's Candidate (UBA)
 
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://orcid.org"><img src="https://shields.io" alt="ORCID"></a>
-  <a href="https://ssrn.com"><img src="https://shields.io" alt="SSRN"></a>
+  <a href="https://linkedin.com"><img src="
+https://ar.linkedin.com/in/brian-axel-rodriguez" alt="LinkedIn"></a>
+  <a href="https://orcid.org"><img src="[https://shields.io](https://orcid.org/0009-0003-5309-336X)" alt="ORCID"></a>
+  <a href="https://ssrn.com"><img src="
+https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10634556" alt="SSRN"></a>
 </p>
 
 Pharmacist (UBA) and Economist (UBA) specializing in quantitative healthcare analysis, health economics, and spatial econometrics. My research focuses on understanding how infrastructure, healthcare systems, and spatial constraints shape access, efficiency, and population outcomes. 
